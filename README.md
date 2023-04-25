@@ -1,4 +1,4 @@
-# Desafio Go Expert - Client-Server-API
+# Desafio Go Expert - Clean Architecture
 
 ## Proposta
 
